@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-	cout << "\n\t\t\tWelcome to GuessTheNumber game!"
+	cout <<"\n\t\t\tWelcome to GuessTheNumber game!"
 		<< endl;
 	cout << "You have to guess a number between 1 and 100. "
 			"You'll have limited choices based on the "
