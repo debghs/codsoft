@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 //   fuctions to add , subtract ,multiply ,divide
 float Addition(float number1,float number2){
 	return number1+number2;
