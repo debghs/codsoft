@@ -6,7 +6,7 @@ class TICTACTOE
 {
 	
 	public:
-		
+	
 	char board[3][3];
     int row,col,digit;
     char choice;
