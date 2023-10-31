@@ -3,7 +3,6 @@ using namespace std;
 
 const int MAX_SIZE=500;
 
-
 struct Task{
 	
 	string task;
