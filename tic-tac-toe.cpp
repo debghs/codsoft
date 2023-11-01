@@ -4,7 +4,6 @@ using namespace std;
 
 class TICTACTOE
 {
-	
 	public:
 	
 	char board[3][3];
