@@ -13,7 +13,7 @@ int main()
 			"level you choose. Good Luck!"
 		<< endl;
 
-	while (true) {
+	while (true){
 		cout << "\nEnter the difficulty level: \n";
 		cout << "1 for easy!\t";
 		cout << "2 for medium!\t";
